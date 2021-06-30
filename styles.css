@@ -41,10 +41,11 @@ input:focus{
 ul li{
   cursor: pointer;
   position: relative;
-  padding: 12px 8px 12px 51px;
+  padding: 12px 51px 12px 51px;
   list-style-type: none;
   background: #eee;
   font-size: 15px;
+  word-break: break-all;
 }
 ul li:nth-child(odd){
   background: #b2bec3;
