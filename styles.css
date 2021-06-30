@@ -59,7 +59,7 @@ ul .checked{
   position: absolute;
   left: 0;
   top: 0;
-  padding: 16px 16px 15px 16px;
+  padding: 16px 16px 14px 16px;
 }
 .fas:hover{
   background: tomato;
@@ -69,7 +69,7 @@ ul .checked{
   position: absolute;
   right: 0;
   top: 0;
-  padding: 16px 16px 15px 16px;
+  padding: 16px 16px 14px 16px;
 }
 .far:hover{
   background: tomato;
